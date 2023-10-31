@@ -1,3 +1,4 @@
+
 *{
     margin: 0;
     padding: 0;
@@ -44,7 +45,7 @@ body{
     cursor: pointer;
 }
 .search button img{
-    width: 10px;
+    width: 30px;
 }
 .weather-icon{
     width: 170px;
@@ -77,4 +78,9 @@ body{
 .humidity,.wind{
     font-size: 28px;
     
+}
+#sunny{
+    height: 250px;
+    width: 250px;
+    margin-top: 10px;
 }
